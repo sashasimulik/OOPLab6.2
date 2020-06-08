@@ -12,7 +12,6 @@ namespace OOPLab6._2
     {
         public abstract void AveragePatients(List<WorkingDay> Days);
         public abstract void MaxLoad(List<WorkingDay> Days);
-
     }
 
     public abstract class Doctor
